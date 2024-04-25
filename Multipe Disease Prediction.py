@@ -58,7 +58,7 @@ if(selected=='Heart Disease Prediction'):
     st.title('Heart Disease Prediction Model Using ML')
     
     age = st.text_input('Age')
-    sex = st.text_input('Sex')
+    sex = st.text_input('Sex')# 1:Male,0:Female 
     cp = st.text_input('Chest Pain types')
     trestbps = st.text_input('Resting Blood Pressure')
     chol = st.text_input('Serum Cholestoral in mg/dl')
