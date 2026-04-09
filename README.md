@@ -43,7 +43,6 @@ cd Disease_Prediction_Machine_Learning-
 
 1. Explore the **notebooks/** directory for Jupyter notebooks with detailed experiments
 2. Use the trained models from **models/** directory for predictions
-3. Training data and test datasets are available in **data/** directory
 
 ---
 
