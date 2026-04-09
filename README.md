@@ -1,26 +1,61 @@
 # Disease Prediction Machine Learning
 
-## Overview
-This repository contains machine learning models for disease prediction based on various datasets. The models have been trained to assist in predicting potential diseases based on symptoms and other parameters.
+A comprehensive machine learning project for predicting various diseases based on medical datasets and advanced ML algorithms.
 
-## Directory Structure
-- **data/**: Contains the datasets used for training and testing.
-- **models/**: Contains the trained machine learning models.
-- **notebooks/**: Jupyter notebooks for experiments and visualizations.
-- **requirements.txt**: List of required packages for running the project.
-- **README.md**: This file.
+---
 
-## Installation
-To install the necessary packages, run:
+## 📁 Project Structure
+
 ```
-pip install -r requirements.txt
+Disease_Prediction_Machine_Learning-/
+├── data/              # Datasets for training and testing
+├── models/            # Trained ML models
+└── notebooks/         # Jupyter notebooks for experiments
 ```
 
-## Usage
-To use the models, you can import them in your scripts or notebooks from the `models` directory. Make sure to have the datasets in the `data` directory.
+---
 
-## Contributing
-Please feel free to submit issues or pull requests if you want to contribute!
+## 🚀 Quick Start
 
-## License
-This project is licensed under the MIT License.
+### Clone the Repository
+
+**HTTPS:**
+```bash
+git clone https://github.com/PreethamNoelP/Disease_Prediction_Machine_Learning-.git
+cd Disease_Prediction_Machine_Learning-
+```
+
+**SSH:**
+```bash
+git clone git@github.com:PreethamNoelP/Disease_Prediction_Machine_Learning-.git
+cd Disease_Prediction_Machine_Learning-
+```
+
+**GitHub CLI:**
+```bash
+gh repo clone PreethamNoelP/Disease_Prediction_Machine_Learning-
+cd Disease_Prediction_Machine_Learning-
+```
+
+---
+
+## 📖 Usage
+
+1. Explore the **notebooks/** directory for Jupyter notebooks with detailed experiments
+2. Use the trained models from **models/** directory for predictions
+3. Training data and test datasets are available in **data/** directory
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+- Submit issues for bugs or suggestions
+- Create pull requests with improvements
+- Share feedback and ideas
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
